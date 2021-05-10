@@ -1,0 +1,11 @@
+Postman GET requests with PokeAPI
+
+https://pokeapi.co/api/v2/pokemon/charizard
+
+https://pokeapi.co/api/v2/pokemon/kyogre
+
+https://pokeapi.co/api/v2/pokemon/356
+
+https://pokeapi.co/api/v2/pokemon/500
+
+https://pokeapi.co/api/v2/pokemon/entei
